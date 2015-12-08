@@ -1,5 +1,9 @@
 <template name="programPage">
   <div class="program-page page">
-    {{> programItem}}
+    <h2>{{title}}</h2>
+    <h3>Activity Description: </h3><h4>{{description}}</h4>
+    <h3>Start Date: </h3><h4>{{start}}</h4>
+    <h3>End Date: </h3><h4>{{end}}</h4>
+    <h4><a href="{{pathFor 'programEdit'}}">Edit</a></h4>
   </div>
 </template>
