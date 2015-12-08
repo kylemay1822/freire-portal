@@ -1,5 +1,5 @@
 #block{
-  background: #D0DCE8;
+  background: #FFFAF8;
   border-style: solid;
   border-color: #C1C3CC;
   border-width: 1px;
@@ -8,4 +8,19 @@
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); 
+}
+.container{
+  background: #212753;
+  width: 100%;
+  height: 1000px;
+}
+.program-page{
+  height: 100px
+}
+.main{
+  background-color: #212753;
+  width: 100%;
+}
+a{
+  color: black;
 }
