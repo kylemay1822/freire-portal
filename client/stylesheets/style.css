@@ -9,11 +9,14 @@
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); 
 }
+<<<<<<< HEAD
 .container{
   background: white;
   width: 100%;
   height: 1000px;
 }
+=======
+>>>>>>> ac3674c8993ef9e52eb319d13f939ddf22cadf6f
 a{
   color: black;
 }
