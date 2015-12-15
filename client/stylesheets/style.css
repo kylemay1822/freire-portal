@@ -9,24 +9,18 @@
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); 
 }
-
-.container{
-  background: white;
+body{
   width: 100%;
-
 }
+.container{
+  width: 100%;
+}
+.main-image{
+  padding-top: 200px;
+  background-image: url("https://drive.google.com/file/d/0Bz3F8ctmiDRJV0FhVWtGNHk3cnNhRnE4cXd4Z0xjek5tbDg0/view?usp=sharing");
+  width: 100%;
+}
+ 
 a{
-  color: black;
-}
-a:link{
-  color: black;
-}
-a:hover{
-  color: black;
-}
-a:visited{
-  color: black;
-}
-a:active{
   color: black;
 }
