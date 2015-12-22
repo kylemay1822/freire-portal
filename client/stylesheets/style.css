@@ -7,20 +7,52 @@
   margin-bottom: 10px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); 
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+}
+html{
+  width: 100%;
+  padding: 0;
+  margin: 0;
 }
 body{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+footer{
   width: 100%;
 }
 .container{
   width: 100%;
+  padding: 0;
+  margin: 0;
 }
-.main-image{
-  padding-top: 200px;
-  background-image: url("https://drive.google.com/file/d/0Bz3F8ctmiDRJV0FhVWtGNHk3cnNhRnE4cXd4Z0xjek5tbDg0/view?usp=sharing");
+.programs-page{
+  padding: 100px 4px 0 4px;
   width: 100%;
 }
- 
+.main-image{
+  padding: 700px 0 0 0;
+  background-image: url("main-image-6.jpg");
+  width: 100%;
+  margin: 0;
+}
+#main{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+#logo{
+  padding: 8px 0 4px 18px;
+}
+#brand{
+  color: white;
+  font-size: 14px;
+  padding: 0 0 0 16px;
+}
+#navbar{
+  padding: 14px 0 0 0;
+}
 a{
   color: black;
 }
