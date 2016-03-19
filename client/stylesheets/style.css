@@ -20,7 +20,7 @@ body{
   margin: 0;
 }
 footer{
-  padding: 450px 12px 0 12px;
+  padding: 12px 12px 0 12px;
   width: 100%;
 }
 .container{
@@ -53,8 +53,13 @@ footer{
 .nav {
   color: white;
 }
-.navbar-nav{
-  color: white;
+.navbar-nav a{
+  color: #9d9d9d;
+}
+.login-link-text {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
 }
 #main{
   width: 100%;
@@ -69,10 +74,25 @@ footer{
   padding: 10px 0 0 0;
   color: white;
 }
-a{
-  color: white;
-}
+
 #login{
   color: white;
   font-size: 24px;
+}
+.management-ui-list{
+  color: black;
+}
+.nav.nav-sidebar a{
+  color: black;
+}
+a {
+  color: white;
+}
+.content{
+  background-color: #A19EA7;
+    height: 550px;
+    color: white;
+    padding: 30px;
+    border: 5px solid black;
+    box-shadow: grey 7px 4px 8px;
 }
