@@ -33,7 +33,7 @@ footer{
   padding-left: 8px;
 }
 .programs-page{
-  padding: 100px 4px 40px 4px;
+  padding: 700px 4px 40px 4px;
   width: 100%;
 }
 .program-page{
@@ -41,8 +41,8 @@ footer{
   width: 100%;
 }
 .main-image{
-  padding: 700px 0 0 0;
   background-image: url("classroom-4.jpg");
+  background-repeat: no-repeat;
   width: 100%;
   margin: 0;
 }
@@ -87,6 +87,9 @@ footer{
 }
 a {
   color: white;
+}
+.program-content a{
+  color: black;
 }
 .content{
   background-color: #A19EA7;
